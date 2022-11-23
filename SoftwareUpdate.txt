@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix IS_PYTHON_3_12 bug (#9258)
