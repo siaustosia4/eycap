@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
