@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix OpenVINO links (#7930)
