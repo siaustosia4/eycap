@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add horizontal Mosaic3 augmentation (#6898)
