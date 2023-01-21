@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+example Google Colab
