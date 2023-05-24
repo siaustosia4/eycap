@@ -1,1 +1,1 @@
-add yolov10
+More robust PNNX downloads (#8866)
