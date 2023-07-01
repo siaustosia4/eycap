@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Updated SQL Query Plot Code (#8120)
