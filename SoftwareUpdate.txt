@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
