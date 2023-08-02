@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add Amazon Sagemaker Docs integrations page (#7293)
