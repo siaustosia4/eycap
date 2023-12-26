@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
