@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Compare plt.get_backend() in lowercase (#8409)
