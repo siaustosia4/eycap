@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
