@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
